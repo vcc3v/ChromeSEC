@@ -1,7 +1,7 @@
 <img src="src/ChromeSEC Logo.png" alt="ChromeSEC Logo">
 
 > [!IMPORTANT]  
-> Hello sysadmins (especially those in FCPS) around the world! Happy holidays! 🎄
+> Happy new year everyone! Hi FCPS :D
 
 > [!TIP]  
 > If you found this guide useful, please share it with another google admin 😄
