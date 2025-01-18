@@ -1,8 +1,3 @@
-<img src="src/ChromeSEC Logo.png" alt="ChromeSEC Logo">
-
-> [!IMPORTANT]  
-> Happy new year everyone! Hi FCPS :D
-
 > [!TIP]  
 > If you found this guide useful, please share it with another google admin 😄
 
