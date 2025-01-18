@@ -1,6 +1,3 @@
-> [!TIP]  
-> If you found this guide useful, please share it with another google admin 😄
-
 # Introduction
 Hello! Welcome to ChromeSEC. We know that system administrators constantly work within their organization on numerous projects and often do not have the time to hunt for forum posts, decipher Google documentation, or pay for support.
 
